@@ -11,7 +11,7 @@ This project provides a comprehensive exploratory data analysis (EDA) of a credi
 ## 📂 Data Source
 The dataset used in this analysis is the Credit Card Fraud Detection Dataset provided by Kartik Bhardwaj on Kaggle.
 
-* **Source**: Kaggle - Credit Card Fraud Detection Dataset
+* **Source**: [Kaggle - Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 * **Dataset Characteristics**: Contains simulated credit card transactions from Jan 1, 2019, to Dec 31, 2020, covering 1000 customers and 800 merchants.
 
