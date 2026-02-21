@@ -8,7 +8,7 @@ This project provides a comprehensive exploratory data analysis (EDA) of a credi
 * **Key Libraries**: Pandas, NumPy, Matplotlib, Seaborn
 * **Techniques**: Boolean Masking, Feature Engineering (Temporal Extraction, Haversine Distance), and Bimodal Statistical Analysis.
 
-* 📂 Data Source
+## 📂 Data Source
 The dataset used in this analysis is the Credit Card Fraud Detection Dataset provided by Kartik Bhardwaj on Kaggle.
 
 * **Source**: Kaggle - Credit Card Fraud Detection Dataset
