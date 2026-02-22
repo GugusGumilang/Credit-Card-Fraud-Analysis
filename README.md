@@ -39,11 +39,11 @@ The dataset used in this analysis is the Credit Card Fraud Detection Dataset pro
 
 | Hourly Fraud Distribution | Categorical Fraud Frequency |
 | :--- | :--- |
-| ![Hourly](images/hourly_fraud.png) | ![Category](images/category_fraud.png) |
+| ![Hourly](images/AP8.jpeg) | ![Category](images/BP8.jpeg) |
 
 | Transaction Amount Distribution | Victim Age Profile |
 | :--- | :--- |
-| ![Amount](images/amount_dist.png) | ![Age](images/age_profile.png) |
+| ![Amount](images/CP8.jpeg) | ![Age](images/DP8.jpeg) |
 
 ## 🚀 Strategic Recommendations
 * **Time-Based MFA**: Implement mandatory Multi-Factor Authentication for transactions above $500 initiated between 22:00 and 04:00.
@@ -51,4 +51,3 @@ The dataset used in this analysis is the Credit Card Fraud Detection Dataset pro
 * **Targeted Education**: Develop digital security awareness programs specifically tailored for the 50+ age demographic to mitigate high-risk vulnerability.
 
 ---
-*Developed by [Your Name]*
