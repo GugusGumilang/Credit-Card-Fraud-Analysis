@@ -35,7 +35,6 @@ The dataset used in this analysis is the Credit Card Fraud Detection Dataset pro
 * This group likely represents a high-value target due to higher credit limits and potential delays in digital security engagement.
 
 ## 📈 Visualizations
-*(Note: Ensure your image files are stored in the `/images` folder of your repository)*
 
 | Hourly Fraud Distribution | Categorical Fraud Frequency |
 | :--- | :--- |
